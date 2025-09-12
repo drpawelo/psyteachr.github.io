@@ -1,0 +1,10 @@
+---
+title: "Installing R/RStudio Guide"
+author: [James Bartlett]
+categories: [tutorial]
+description: |
+  In this R(eady)SetGo guide, we demonstrate how to download and install the software R/RStudio on your computer which you will use throughout your degree. If you cannot download R/RStudio to your own computer, there is also a chapter guiding you through using the software on the University of Glashow library/lab computers.
+image: ../../images/RSetGo.png
+url: https://psyteachr.github.io/RSetGo/
+order: 31
+---

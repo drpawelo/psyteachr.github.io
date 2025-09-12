@@ -1,0 +1,12 @@
+---
+title: "Creating open educational materials at ESPLAT 2025"
+date: 2025-09-01
+author: James Bartlett
+image: ../images/template.png
+categories: [workshop]
+url: https://www.uni-muenster.de/Psychologie/en/forschung/Konferenz/25esplat/
+---
+
+James Bartlett delivered a workshop on "Creating open educational materials using Quarto- and Github-Pages" at ESPLAT 2025 in Münster, Germany.
+
+Abstract: In your course, you might rely on expensive print textbooks which quickly become outdated or not cover your specific curriculum. Open educational materials allow you to write free content which directly target the needs of your students. For scholarship, they also have the added benefit for educators in being a valuable output to demonstrate the impact of your learning and teaching practice. In this workshop, I will provide a tutorial on writing online books using R/Quarto and hosting them using GitHub pages. You can develop anything from a course syllabus to technical content like research methods and statistics. If you can bring a laptop and follow the preparation instructions in Chapter 1 (https://bartlettje.github.io/dissemination_quarto/), the aim of the workshop is for everyone to create and host your initial book. You will then have the resources to continue developing your materials after the workshop.
