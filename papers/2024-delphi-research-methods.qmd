@@ -5,7 +5,7 @@ categories: [pedagogy, research methods, education]
 doi: 10.1177/25152459231213808
 venue: Advances in Methods and Practices in Psychological Science
 url: https://journals.sagepub.com/doi/10.1177/25152459231213808
-date: 2023-05-17
+date: 2024-01-29
 abstract: |
   Psychology programs often emphasize inferential statistical tests over a solid understanding of data and research design. This imbalance may leave graduates underequipped to effectively interpret research and employ data to answer questions. We conducted a two-round modified Delphi to identify the research-methods skills that the UK psychology community deems essential for undergraduates to learn. Participants included 103 research-methods instructors, academics, students, and nonacademic psychologists. Of 78 items included in the consensus process, 34 reached consensus. We coupled these results with a qualitative analysis of 707 open-ended text responses to develop nine recommendations for organizations that accredit undergraduate psychology programs—such as the British Psychological Society. We recommend that accreditation standards emphasize (1) data skills, (2) research design, (3) descriptive statistics, (4) critical analysis, (5) qualitative methods, and (6) both parameter estimation and significance testing; as well as (7) give precedence to foundational skills, (8) promote transferable skills, and (9) create space in curricula to enable these recommendations. Our data and findings can inform modernized accreditation standards to include clearly defined, assessable, and widely encouraged skills that foster a competent graduate body for the contemporary world.
 ---
